@@ -1,5 +1,5 @@
 // Car Bank PWA — Service Worker
-const CACHE_NAME = 'carbank-sp1-v1';
+const CACHE_NAME = 'carbank-sp2-v1';
 
 // Arquivos para cachear (offline support básico)
 const ASSETS = [
